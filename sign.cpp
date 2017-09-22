@@ -14,7 +14,7 @@ int main(int argc, char ** argv )
 	
 	if (sign)
 	{
-
+		std::cout << "positive" << std::endl;
 	}
 	else
 	{
